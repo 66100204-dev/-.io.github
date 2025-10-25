@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+<body bgcolor="#C6F2AF"><body>
+    
+        
+
+<marquee behavior="alternate" direction="left">
+<b><font face ="th sarabun new" size="10" 
+color="green"> ยินดีต้อนรับเข้าสู่เว็บไซต์ของฉัน </font><b><br></marquee>
+    <p align="center">
+        <img src="https://i.postimg.cc/MTjV6FHt/tyu67878yui8ui.jpg" alt="อธิชา" width="200" height="200">
+        <br>
+<b><u><font face ="th sarabun new" size="5" color="green">ฉันมีความสนใจในเรื่องการสร้างชื่อ</u></b><br>
+นิสิต วิทยาศาสตร์การกีฬา
+ </font>
+</p>
+
+<p align="left"
+<font face ="th saraban new" size="5"
+color="black">ความเชี่ยวชาญของฉันได้แก่:</font>
+</p>
+
+<ul type ="circle">
+    <li>การผลิตสื่อกีฬา</li>
+    <li>การผลิตสื่อกีฬา</li>
+    <li>การใช้ AI ในการผลิตสื่อกีฬา</li>
+</ul>
+
+<p align="left"
+<font face ="th saraban new" size="5"color="black">เป้าหมายส่วนตัวของฉัน:</font>
+</p>
+
+<ol type="1" start="1">
+    <li>การสื่อสารทางการกีฬา</li>
+    <li>การผลิตสื่อกีฬา</li>
+    <li>การใช้ AI ในการผลิตสื่อกีฬา</li>
+</ol>
+
+<TABLE BORDER="2" WIDTH="80%" ALIGN="CENTER" CELLPADDING="10" BGCOLOR="pink">
+  <TR BGCOLOR="cream">
+    <TH>ทักษะ</TH>
+    <TH>ระดับ</TH>
+    <TH>ประสบการณ์</TH>
+  </TR>
+  <TR>
+    <TD>การสอน</TD>
+    <TD>สูง</TD>
+    <TD>มากกว่า 10 ปี</TD>
+  </TR>
+  <TR>
+    <TD>การวิจัย</TD>
+    <TD>ปานกลาง</TD>
+    <TD>5 ปี</TD>
+  </TR>
+  <TR>
+    <TD>การสร้างสื่อ</TD>
+    <TD>สูง</TD>
+    <TD>มากกว่า 10 ปี</TD>
+  </TR>
+</TABLE>
+
+<br>
+<p align="center">
+    <font face="TH sarabun new" size="5" color="green">
+หากต้องการทราบข้อมูลเพิ่มเติม สามารถเยี่ยมชมเว็บไซต์ของฉันที่นี่
+<a href="https://sites.google.com/go.buu.ac.th/web-site-portfolio/home">คลิกที่นี่</a>
+</p>
+</font>
+<br>
+<br>
+    
+</body>
+</html>
+<P ALIGN="CENTER">
+&nbsp;<BR>
+<FONT FACE="TH Sarabun New" SIZE="10" COLOR="blue">
+<a href="./Contact.html">ติดต่อที่นี่</a>
+</FONT>
+</P>
+<body bgcolor="lightyellow"></body>
+
+    <main>
+        <h1>
+            <a href="./index.html">Homepage</a>
+        </h1>
+        
+        <h1>Contact Me</h1>
+        <form>
+            <div>
+                <label>
+                    ชื่อ
+                    <br />
+                    <input type="text" name="name" />
+                </label>
+            </div>
+            <div>
+                <label>
+                    ข้อความ
+                    <br />
+                    <textarea name="content" cols="30" rows="10"></textarea>
+                </label>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" required />
+                    ฉันยอมรับข้อตกลงการใช้งาน
+                </label>
+            </div>
+            <BR><BR>
+    </main>
+    <footer>
+        &copy; 2025 อธิชา เสถียรทรัพย์
+    </footer>
+</html>
